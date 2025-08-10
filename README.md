@@ -21,6 +21,7 @@
 - Fixed BT playback in browser
 - Debloat
 - Maybe something else
+- Better advanced texture
 
 ### Bugs
 - Play integrity
