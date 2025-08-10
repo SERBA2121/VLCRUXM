@@ -22,6 +22,7 @@
 - Debloat
 - Maybe something else
 - Better advanced texture
+- Undervolt
 
 ### Bugs
 - Play integrity
